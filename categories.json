@@ -5,13 +5,13 @@
     "name": "Plants",
     "tags": ["products", "inspirations"],
     "count": 147,
-    "image": "require('../assets/icons/plants.png')"
+    "image": "../assets/icons/plants.png"
   },
   {
     "id": "seeds",
     "name": "Seeds",
     "tags": ["products", "shop"],
     "count": 16,
-    "image": "require('../assets/icons/seeds.png')
+    "image": "../assets/icons/seeds.png"
   }
 ]}
