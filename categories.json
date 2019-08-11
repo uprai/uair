@@ -1,4 +1,5 @@
-{categories : [
+{
+  "categories" : [
   {
     id: 'plants',
     name: 'Plants',
