@@ -16,7 +16,7 @@
   {
     "id": "flowers",
     "name": "Flowers",
-    "tags": ["products", "samples"],
+    "tags": ["products", "Samples"],
     "count": 11,
     "image": "https://raw.githubusercontent.com/uprai/uair/master/assets/icons/flowers.png"
   }
