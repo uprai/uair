@@ -1,4 +1,4 @@
-"categories" : [
+{"categories" : [
   {
     "id": "plants",
     "name": "Plants",
@@ -13,4 +13,4 @@
     "count": 16,
     "image": "../assets/icons/seeds.png"
   }
-]
+]}
