@@ -3,14 +3,21 @@
     "id": "plants",
     "name": "Plants",
     "tags": ["products", "inspirations"],
-    "count": 147,
+    "count": 14,
     "image": "https://raw.githubusercontent.com/uprai/uair/master/assets/icons/plants.png"
   },
   {
     "id": "seeds",
     "name": "Seeds",
     "tags": ["products", "shop"],
-    "count": 16,
+    "count": 6,
     "image": "https://raw.githubusercontent.com/uprai/uair/master/assets/icons/seeds.png"
+  },
+  {
+    "id": "flowers",
+    "name": "Flowers",
+    "tags": ["products", "samples"],
+    "count": 11,
+    "image": "https://raw.githubusercontent.com/uprai/uair/master/assets/icons/flowers.png"
   }
 ]}
